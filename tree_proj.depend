@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1777729374 source:c:\users\naeem\onedrive\desktop\student_reg\tree_proj\main.cpp
+	<iostream>
+	"studentBST.h"
+
+1777729374 c:\users\naeem\onedrive\desktop\student_reg\tree_proj\studentbst.h
+	<string>
+
+1777725846 c:\users\naeem\onedrive\desktop\student_reg\tree_proj\coursebst.h
+	<string>
+
+1777725846 source:c:\users\naeem\onedrive\desktop\student_reg\tree_proj\coursebst.cpp
+	"coursebst.h"
+	<iostream>
+
+1777729978 source:c:\users\naeem\onedrive\desktop\student_reg\tree_proj\studentbst.cpp
+	"studentbst.h"
+	<iostream>
+
